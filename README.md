@@ -1,4 +1,4 @@
-## Hi, I'm Deniz 👋
+## Hi, I'm Deniz 
 
 Industrial and Systems Engineering student in the **SUNY Binghamton – Istanbul Technical University dual diploma program** (expected May 2027). I like turning messy, everyday problems into working systems, from optimization models to tools I use every day.
 
