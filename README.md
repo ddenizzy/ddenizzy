@@ -6,7 +6,7 @@ Industrial and Systems Engineering student in the **SUNY Binghamton – Istanbul
 
 - **[MasterPrac](https://github.com/ddenizzy/masterprac):** a macOS guitar practice app that syncs Songsterr tabs, a live fretboard and word-timed lyrics to whatever is playing in Spotify.
 - **OutbreakLens** (senior design capstone): a disease outbreak forecasting pipeline that combines an SEIR model with machine learning on public WHO and CDC data.
-- **Custamo:** a personal macOS menu bar assistant for mail, deadlines, tasks and a kitchen inventory.
+- **[Custamo](https://github.com/ddenizzy/custamo-app):** a personal macOS menu bar assistant with a retro pixel look for mail, deadlines, tasks, a kitchen inventory, campus buses and smart lights.
 
 ### Toolbox
 
